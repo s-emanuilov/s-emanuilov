@@ -1,6 +1,6 @@
 ### Hi there, I'm Simeon Emanuilov! 👋
 
-[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?&style=for-the-badge)](https://unfoldai.com/)
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=adguard&style=for-the-badge)](https://unfoldai.com/)
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/simeon-emanuilov/)
 
