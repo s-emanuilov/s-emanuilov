@@ -13,9 +13,3 @@
 - 📫 **How to contact me**: Connect with me on LinkedIn!
 
 <hr/>
-
-<center>
-<a href="https://github.com/s-emanuilov">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-emanuilov&count_private=true&show_icons=true&hide=stars" /> 
-</a>
-</center>
