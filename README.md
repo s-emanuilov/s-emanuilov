@@ -9,7 +9,6 @@
 ## **I'm a Senior Backend Engineer in ML field**
 
 - 🎯 **I’m currently working on**: Semantic Search Systems, Software Architectures for ML scenarios, finishing my Ph.D.
-- 💬 **Ask me about**: Deployment of ML/DL models, RESTful APIs, Python programming, SQL and NoSQL Databases, Software Architecture, Design Patterns
 - 📫 **How to contact me**: Connect with me on LinkedIn!
 
 <hr/>
